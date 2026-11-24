@@ -1,0 +1,14 @@
+{
+  "name": "stunt-nose-sommelier",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One job title for make.fun's Weirdest Job Title bounty: a sommelier hires a nose, written to /output/entry.txt",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
